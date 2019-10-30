@@ -1,0 +1,29 @@
+@media screen and (max-width: 1140px) {
+  .navigation-blocks {
+    flex-direction: column;
+    align-items: center;
+  }
+  .navigation-blocks .map-block {
+    margin-top: 5px;
+  }
+}
+@media screen and (max-width: 620px) {
+  .about-us {
+    flex-wrap: wrap;
+  }
+  .navigation {
+    min-height: 800px;
+  }
+  main .navigation {
+    margin-top: 30px;
+  }
+  main .navigation .logo {
+    display: none;
+  }
+  main .navigation .navigation-blocks .map-block {
+    margin-top: 10px;
+  }
+  main .navigation .navigation-blocks .map-block .text {
+    text-align: center;
+  }
+}

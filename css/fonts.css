@@ -1,0 +1,127 @@
+body {
+	font-family: "Montserrat";
+	color: rgb(80, 80, 80);
+}
+h1,
+h2,
+h3,
+h4,
+h5 {
+	color: rgba(0, 0, 0, 0.902);
+	font-weight: bold;
+  	text-transform: uppercase;
+	
+}
+
+h5 span {
+	font-weight:  100;
+	font-size: 14px;
+	font-family: "Merriweather";
+	color: rgba(39, 39, 39, 0.949);
+	line-height: 1.2;
+}
+
+
+
+h3 {
+	font-size: 38px;
+	color: rgba(0, 0, 0, 0.902);
+	font-weight: bold;
+  	text-transform: uppercase;
+}
+.text-box p {
+	font-size: 18px;
+	color: rgba(0, 0, 0, 0.62);
+	text-transform: uppercase;
+	line-height: 1.556;
+}
+.main-theme .text-box h1 {
+	font-size: 45px;
+	text-transform: uppercase;
+	text-shadow: 4.5px 7.794px 0px rgba(0, 0, 0, 0.094);
+}
+
+.button-box a {
+	font-size: 18px;
+	color: rgba(0, 0, 0, 0.749);
+	text-transform: uppercase;
+	line-height: 1.556;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+.front .text h6,h5,h4,h3 {
+	color: white;
+	font-family: "Merriweather";
+	font-weight: bold;
+	text-transform: uppercase;
+	line-height: 1.45;
+}
+
+
+.front .text p {
+	color: white;
+	font-size: 16px;
+	line-height: 1.563;
+}
+
+
+.back .text h5,h4,h3 {
+	font-family: "Merriweather";
+	color: rgba(0, 0, 0, 0.831);
+	font-family: "Merriweather";
+	font-weight: bold;
+	text-transform: uppercase;
+	line-height: 1.45;
+}
+
+
+
+.container .text-box-1 h2{
+	margin-bottom: 5px;
+}
+
+.wrap label {
+	font-size: 15px;
+	color: rgba(255, 255, 255, 0.6);
+	line-height: 3.4;
+}
+
+.button-block a {
+	text-transform: uppercase;
+	font-size: 18px;
+	font-family: "Montserrat";
+	color: rgba(0, 0, 0, 0.702);
+	line-height: 1.556;
+}
+
+.map-block .text p {
+	margin: 0;
+	color: #ffff;
+	font-family: Raleway;
+	font-size: 15px;
+	font-weight: 400;
+	line-height: 24px;
+}
+
+footer .text p {
+	color: #ffffff;
+	font-family: Raleway;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 25px;
+	text-transform: uppercase;
+	letter-spacing: 0.16px;
+}
+
+footer .copyright p {
+	opacity: 0.4;
+	color: #ffffff;
+	font-family: Raleway;
+	font-size: 16px;
+	font-weight: 500;
+	line-height: 25px;
+	letter-spacing: 0.16px;
+}
+
+
